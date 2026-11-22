@@ -138,7 +138,7 @@ export default function App() {
       <footer className="border-t border-slate-200 bg-white mt-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500">
           <span>
-            HemoVet · Simulador educacional de hematologia veterinária (Caninos, Felinos, Equinos e Bovinos)
+            Patricia Oliveira da Silva e Jéssica Araujo -Patologia Clíncica - ULBRA 2026 - Simulador educacional de hematologia veterinária (Caninos, Felinos, Equinos e Bovinos)
           </span>
           <span>
             Uso exclusivo para ensino e dinâmicas de estudo — não substitui avaliação clínica laboratorial.
