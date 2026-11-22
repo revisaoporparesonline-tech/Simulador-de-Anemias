@@ -1,0 +1,6 @@
+{
+  "name": "HemoVet — Simulador de Classificação das Anemias",
+  "description": "Simulador educacional de hematologia veterinária para dinâmicas de estudo sobre classificação das anemias em caninos, felinos, equinos e bovinos através da leitura do hemograma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
